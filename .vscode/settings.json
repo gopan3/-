@@ -4,26 +4,3 @@ JSON
        "editor.tabSize": 2,
        "files.autoSave": "onFocusChange"
    }
-   
-
-
-•	Введите сообщение коммита: "Add VS Code workspace settings"
-•	Нажмите Commit new file
-
-6. Теперь создайте файл с переменными окружения:
-•	Add file → Create new file
-•	Введите имя файла: .env.example
-•	Добавьте содержимое:
-  
-
-   # Database configuration
-   DB_HOST=localhost
-   DB_PORT=5432
-   
-   # API Keys
-   WEATHER_API_KEY=your_api_key_here
-   
-
-
-•	Сообщение коммита: "Add environment variables template"
-•	Нажмите Commit new file
